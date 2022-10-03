@@ -1,5 +1,5 @@
 FROM openjdk:18.0.1
-LABEL maintainer="nmuchiri@kcbgroup.com"
+LABEL maintainer="muchirinephat5@gmail.com"
 ENV PORT=8765
 #
 ARG JAR_FILE=target/api-gateway.jar
